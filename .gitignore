@@ -1,0 +1,11 @@
+# Dependecies
+node_modules
+
+# Database
+# db/*.db
+
+# Environment
+.env.test
+
+# Build
+build
